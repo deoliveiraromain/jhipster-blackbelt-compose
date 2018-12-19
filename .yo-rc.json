@@ -1,0 +1,14 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "gateway",
+      "jhipster-blackbelt"
+    ],
+    "directoryPath": "C:\\Users\\DEOLIVR\\work\\ippon\\blackbelt/",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YzRlZWVlZWRmNGY0NTAzMDk5ZGEyMzkwYzZhNjM5YzdlYTU4YjZjMjAzOGM3MDJjMDEyZWViNDg2NWZhOTI4YTIyYTMxYjczNzM1MWY3MzY0NDk1ZTE3MjAwNmI5ZTE0MzE2Nw=="
+  }
+}
