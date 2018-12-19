@@ -20,10 +20,10 @@ And then, launch all your infrastructure by running: `docker-compose up -d`.
 - [JHipster Registry](http://localhost:8761)
 
 ### Applications and dependencies:
-- gateway (gateway application) : http://localhost:
-- gateway's postgresql database
-- jhipsterBlackbelt (microservice application)
-- jhipsterBlackbelt's mongodb database
+- gateway (gateway application) : http://localhost:8080/
+- gateway's postgresql database : port 5432
+- jhipsterBlackbelt (microservice application) :  http://localhost:/8095/ (not accessible outside of gateway)
+- jhipsterBlackbelt's mongodb database : port 27017
 
 ### Additional Services:
 
