@@ -27,3 +27,9 @@ And then, launch all your infrastructure by running: `docker-compose up -d`.
 
 ### Additional Services:
 
+To Deploy Registry to GAE : (after google cloud SDK install, connection, and project creation)
+
+```bash
+gcloud app deploy registry.yml
+```
+
